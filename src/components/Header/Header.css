@@ -1,0 +1,10 @@
+.navbar-link a {
+    text-decoration: none;
+    padding-right: 10px;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.navbar-link a:hover {
+    color: orange;
+}

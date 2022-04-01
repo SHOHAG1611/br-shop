@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "img": "https://lemonbin.com/wp-content/uploads/2020/06/power-cruiser-motorcycle-june252020.jpg",
+        "price": 120000,
+        "name": "power-cruiser-motorcycle"
+    },
+    {
+        "id": "2",
+        "img": "https://cdn.suzukimotorcycle.co.in/public-live/uploads/media-images/original/Gixxer_SF-550X640-Pixls_2-min_5f759dd2d59da.jpg",
+        "price": 135999,
+        "name": "Gixxer_SF-550X640-Pixls"
+    },
+    {
+        "id": "3",
+        "img": "https://images.triumphmotorcycles.co.uk/media-library/images/central%20marketing%20team/te1%20-%20phase%202/te-1%20phase%203/te1-gallery-6-500.jpg",
+        "price": 180000,
+        "name": "triumph motorcycles"
+    },
+    {
+        "id": "4",
+        "img": "https://www.motorcycle.com/blog/wp-content/uploads/2019/01/011719-best-dual-sport-motorcycles-2019-kawasaki-klx250.png",
+        "price": 130000,
+        "name": "sport-motorcycles-2019-kawasaki"
+    },
+    {
+        "id": "5",
+        "img": "https://i.pinimg.com/736x/2c/6d/0f/2c6d0f78e3fb164afaf60fc854ccdb77--sport-motorcycles-electric.jpg",
+        "price": 160000,
+        "name": "sport motorcycles electric"
+    },
+    {
+        "id": "6",
+        "img": "https://advmoto-assets-advmoto.netdna-ssl.com/images/ARTICLES/Bikes/Best-650-adventure-bikes/BMW-F800GS-1.jpg",
+        "price": 150000,
+        "name": "ARTICLES Bikes"
+    },
+    {
+        "id": "7",
+        "img": "https://bikeadvice.in/wp-content/uploads/2013/11/Yamaha-R25-Rendering.jpg",
+        "price": 110000,
+        "name": "Yamaha R25"
+    },
+    {
+        "id": "8",
+        "img": "https://adventuremotorcycle.com/images/ARTICLES/Bikes/250cc-adventure-bikes/WR250.jpg",
+        "price": 140000,
+        "name": "ARTICLES-Bikes-250cc"
+    },
+    {
+        "id": "9",
+        "img": "https://news.maxabout.com/wp-content/uploads/2020/09/Yamaha-R3-Monster-Energy-Edition-12-e1600061701652.jpg",
+        "price": 180000,
+        "name": "Yamaha R3 Monster Energy Edition-12"
+    }
+]

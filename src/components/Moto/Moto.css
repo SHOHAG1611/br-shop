@@ -1,0 +1,26 @@
+.moto-conainer img {
+    height: 300px;
+    width: 300px;
+}
+
+.moto-conainer {
+    height: 600px;
+    border: 2px solid gainsboro;
+    margin-top: 8px;
+    margin: 10px 0;
+}
+
+.moto-conainer .add-to-card {
+    color: white;
+    background-color: brown;
+    padding: 10px;
+    border-radius: 10px;
+    border: 0;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.moto-conainer .add-to-card:hover {
+    background-color: yellow;
+    color: black;
+}
